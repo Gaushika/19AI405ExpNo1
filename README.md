@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Gaushika RR N</h3>
+<h3>Name: Gaushika RR </h3>
 <h3>Register Number : 212225040091</h3>
 
 
@@ -87,5 +87,6 @@ Output:
 <img width="1727" height="776" alt="590308319-40bf7ac6-e3b9-4c20-9caa-3685a2c5ab7a" src="https://github.com/user-attachments/assets/d9ab4cba-4977-41a5-8df2-84184f679f1d" />
 
 Result:
+
 Hence, the solution for the given AI problem is found.
 
